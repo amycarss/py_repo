@@ -1,3 +1,3 @@
 # py_repo
 a future python project
-This repo is currently being used to gain some skill with github. later I will put a python project on it because why not?
+I'd like to create apython program that uses the API from carcomplaints.com and an api from some site that has used car pricing to find the most reliable cars in the $5000=$10,000 price range
